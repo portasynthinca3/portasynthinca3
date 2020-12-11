@@ -7,3 +7,5 @@ You might know me as the creator of [Order](https://ordermsg.tk), a free (both i
 I mainly write back-end code, though I've been starting to shift towards front-end lately, so I guess you could consider me a full-stack developer? ¯\\_(ツ)_/¯
 
 Please consider [donating some money](https://patreon.com/portasynthinca3) towards being able to keep Order and Deuterium servers running. Thank you.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portasynthinca3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
