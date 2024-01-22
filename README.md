@@ -50,8 +50,10 @@ I'm portasynthinca3, and that is not, in fact, one of my passwords. I do all sor
     ![](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white)
     ![](https://img.shields.io/badge/-KiCad-314CB0)
 
-<picture>
+<!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./light.png">
     <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./light.png">
-</picture>
+</picture> -->
+
+![Saddam Hussein](./saddam.png)
