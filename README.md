@@ -5,3 +5,4 @@ I'm portasynthinca3, or just porta for short :)
   - I'm a resident at the [@undefspace](https://github.com/undefspace) hackerspace.
   - In my free time I work on an operating system called [BOSS](https://github.com/portasynthinca3/boss).
   - I work at [@flipperdevices](https://github.com/flipperdevices).
+  - My favorite languages are **C** and **Elixir**.
